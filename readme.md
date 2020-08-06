@@ -1,4 +1,4 @@
-[CS:GO] [DMR] Server Retakes Mode Config 
+[CS:GO] Retakes Mode Config 
 ===================
 
 Description(en-US)
