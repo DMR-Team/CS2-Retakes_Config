@@ -85,13 +85,6 @@
       "CanBePlanter": false
     },
     {
-      "Vector": "-1,040.86 238.60 -171.73",
-      "QAngle": "0.00 -35.02 0.00",
-      "Team": 3,
-      "Bombsite": 0,
-      "CanBePlanter": false
-    },
-    {
       "Vector": "215.21 -323.35 -167.40",
       "QAngle": "0.00 -139.94 0.00",
       "Team": 3,
@@ -314,6 +307,13 @@
       "Team": 2,
       "Bombsite": 1,
       "CanBePlanter": true
+    },
+    {
+      "Vector": "-1,370.14 344.66 -167.97",
+      "QAngle": "0.00 -29.37 0.00",
+      "Team": 3,
+      "Bombsite": 0,
+      "CanBePlanter": false
     }
   ]
 }
